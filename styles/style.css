@@ -1,0 +1,14 @@
+body{font-family: 'Caprasimo', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rammetto One', cursive;}
+
+nav{display: flex;justify-content: space-around;align-items: center;
+}
+nav > ul{display: flex;justify-content: space-a;}
+nav li{list-style: none;margin-right: 50px;}
+nav a{text-decoration: none;}
+.font-color{color: tomato;}
+.btn-primary{background-color: tomato;border-radius: 5px;}
+
+
+
