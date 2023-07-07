@@ -3,12 +3,14 @@ body{font-family: 'Caprasimo', cursive;
     font-family: 'Rammetto One', cursive;}
 
 nav{display: flex;justify-content: space-around;align-items: center;
-}
-nav > ul{display: flex;justify-content: space-a;}
+margin: 0 200px;}
+nav > ul{display: flex;}
 nav li{list-style: none;margin-right: 50px;}
 nav a{text-decoration: none;}
 .font-color{color: tomato;}
-.btn-primary{background-color: tomato;border-radius: 5px;}
-
+.btn-primary{color: white; border: 0px; font-size: 15px;font-weight: bold; background-color: #FD6E0A;border-radius: 5px;padding: 4px;}
+.header{background-color: #FFF8F3;}
+.banner{padding: 30px 30px 30px 150px;display: flex;align-items: center;}
+.pic{width: 500px;height: 650px;}
 
 
