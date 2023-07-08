@@ -40,8 +40,12 @@ nav a{text-decoration: none;
      padding: 5px;
      font-size: 14px;
      font-weight: bold;}
+     .about{border: 1px solid black;border-radius: 10px; background-color: aqua;padding: 130px;width: 500px;margin: 0px auto;margin-top: 30px;}
+     .div-tittle{text-align: center;font-size: 22px;font-weight: bold;margin-bottom: 20px;}
+     .div-desc{display: inline;}
 
-     .about{padding: 130px;background-color: #FFF8F3;border-radius: 10px;margin: 130px 0px;}
-
-     .seaction-tittle{text-align: center;margin-bottom: 10px;}
-     .section desc{color: #474747;}
+     .about-info-contain{display: flex;margin-top: 20px;justify-content: space-around;}
+     .about-info{text-align: center;}
+     .what{max-width: 500px;height:auto;margin: 0 auto;margin-top: 20px;text-align: center;padding: 100px;}
+     .para{color: aqua;}
+ 
